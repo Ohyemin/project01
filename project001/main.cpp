@@ -1,4 +1,6 @@
-﻿#include <iostream>
+﻿// 주석을 추가할게요
+
+#include <iostream>
 #include<Windows.h>
 #include "GameObject.h"
 #include "ScreenBuffer.h"
